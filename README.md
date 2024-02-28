@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qweciamoah
-- 👀 I’m interested in ...Cloud Engineering,DevOps
+- 👀 I’m interested in ...Cloud Engineering , DevOps Engineering
 - 🌱 I’m currently learning ...Information Technology
 - 💞️ I’m looking to collaborate on ...Cloud Engineering, DevOps
 - 📫 How to reach me ...@qwecijunior on twitter 
